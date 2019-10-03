@@ -1,0 +1,1 @@
+Calculadora desenvolvida com jQuery. O usuário deve entrar com o Peso(Kg) e Altura (M) e retorna o valor do IMC e o estado em que a pessoa se encontra.
